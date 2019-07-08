@@ -44,6 +44,7 @@ public class BSL {
                                 case "á" : estado = 1; break;
                                 case "b" : estado = 1; break;
                                 case "c" : estado = 1; break;
+                                case "ç" : estado = 1; break;
                                 case "d" : estado = 1; break;
                                 case "e" : estado = 1; break;
                                 case "é" : estado = 1; break;
@@ -84,6 +85,7 @@ public class BSL {
                                 case "á" : estado = 1; break;
                                 case "b" : estado = 1; break;
                                 case "c" : estado = 1; break;
+                                case "ç" : estado = 1; break;
                                 case "d" : estado = 1; break;
                                 case "e" : estado = 1; break;
                                 case "é" : estado = 1; break;
